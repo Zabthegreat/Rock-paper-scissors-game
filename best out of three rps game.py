@@ -1,5 +1,5 @@
 import random
-
+#  I made some changes
 gretting = input('Are you ready to play rock paper scissor game with Mr-Computer (y/n) - ')
 cho = ["r","p","s"]
 count = 0
